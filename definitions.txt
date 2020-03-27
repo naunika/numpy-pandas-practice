@@ -1,1 +1,0 @@
-Numpy Definition: a Python library used for scientific computing. It can also be used as an efficient multi-dimensional container for data.
